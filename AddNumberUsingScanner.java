@@ -1,5 +1,3 @@
-package myapp;
-
 import java.util.Scanner;
 
 public class AddNumberUsingScanner {
@@ -20,5 +18,4 @@ public class AddNumberUsingScanner {
         
         scanner.close();
     }
-
 }

@@ -1,5 +1,3 @@
-// package myapp;
-
 public class StringFormatDemo {
 
 	public static void main(String[] args) {
@@ -8,5 +6,4 @@ public class StringFormatDemo {
 	// 	System.out.println(formatted);
 		System.out.println(args[0]);
 	}
-
 }
